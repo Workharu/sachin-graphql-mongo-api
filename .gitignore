@@ -1,0 +1,12 @@
+.env
+
+*lock.json 
+*.lock
+
+
+.serverless
+
+dist
+
+node_modules
+
